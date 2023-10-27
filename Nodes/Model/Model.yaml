@@ -1,0 +1,17 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=9bd4907e70c7817ffa447de674776cb6
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Variable2
+  Id: g=48f2376641144e2a32af6e85e53ec582
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Test: Value1\nTest: Value2\nsp ace: Invalid header\nCorrect-Header1: Qwe!@$%\\n&gt;~"
