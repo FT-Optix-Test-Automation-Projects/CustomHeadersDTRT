@@ -10,7 +10,7 @@ Children:
   Id: g=48f2376641144e2a32af6e85e53ec582
   Type: BaseDataVariableType
   DataType: String
-  Value: "0"
+  Value: ""
 - Name: Variable3
   Type: BaseDataVariableType
   DataType: String
