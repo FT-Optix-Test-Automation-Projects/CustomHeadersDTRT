@@ -29,9 +29,5 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 1.0
-  8:
-   Uri: 'urn:FTOptix:WebUI'
-   Module: FTOptix.WebUI
-   Version: 1.1
  Nodes:
  - File: Nodes/CustomHeadersDTRT.yaml
